@@ -18,10 +18,10 @@
 
 - 🤖 **AI 内容自动化工作台** — 热点采集 → LLM 合成 → 多平台定时发布 → 浏览量复盘闭环，一条龙无人值守。目标是让 AI 干重活，人只做决策。
 
-## 🚧 开源计划
+## 🚀 开源项目
 
-这个账号刚起步，第一个开源项目正在筹备中：
+**[ai-workbench](https://github.com/linluhe007-art/ai-workbench)** — AI 半自动内容生产工作台
 
-> **AI 半自动内容生产工作台** — React + FastAPI + PostgreSQL + Redis 全栈应用，AI 负责热点采集、内容生成、封面方案，人负责审核与发布。Docker 一键部署。
+> React + FastAPI + PostgreSQL + Redis 全栈应用，AI 负责热点采集、内容生成、封面方案，人负责审核与发布。Docker 一键部署，MIT 协议。
 
-⭐ 关注我，上线第一时间告诉你。
+⭐ 第一个仓库，多多指教。
